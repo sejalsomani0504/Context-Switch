@@ -3,4 +3,4 @@ b 3
 add x a b
 a 5
 b 6
-add y a b          
+add y a b         
